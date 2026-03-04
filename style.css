@@ -28,7 +28,7 @@ h1 {
     display: flex;
     align-items: center;
     gap: 40px;
-    padding: 50px;
+    padding: 60px;
     flex: 1;
     width: 100%;
     max-width: 1200px;
@@ -41,7 +41,7 @@ img {
 
 
 header {
-    padding: 50px 50px 0;
+    padding: 50px 50px ;
 }
 
 
@@ -75,7 +75,7 @@ button:hover {
 .main-content p {
     font-size: 18px;
     margin-bottom: 30px;
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
 /*Mobile Screen Design*/ 
@@ -100,8 +100,6 @@ button:hover {
         font-size: 28px;
     }
 }
-
-
 footer {
     padding: 20px 50px;
 }
